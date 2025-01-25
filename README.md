@@ -1,5 +1,7 @@
 # terraform-module-november
 
+## Copy and paste following block
+
 ```hcl
 module "november" {
   source  = "nazikmusa/november/module"
